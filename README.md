@@ -1,2 +1,1 @@
-# algorytmy
-miłego dnia
+# arcanoid
